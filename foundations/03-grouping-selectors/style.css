@@ -1,0 +1,13 @@
+.uno, .dos{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman';
+}
+
+.uno{
+    background-color: black;
+    color: white;
+}
+
+.dos{
+    background-color: yellow;
+}
